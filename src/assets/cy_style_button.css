@@ -1,0 +1,210 @@
+
+.z_modal_style{
+    
+}
+
+.z_modal_style .ant-modal{
+    /* max-height: 80%; */
+    /* position: relative; */
+    /* overflow: auto; */
+}
+
+.z_modal_style .ant-modal .ant-modal-header{
+    /* position: fixed; */
+}
+
+
+
+.z_button_search{
+    border-radius: 4px !important;
+    padding: 0 10px !important;
+    /* height: 26px !important; */
+    background-color: #56a8f5 !important;
+    border: 1px solid #56a8f5;
+    color: #fff !important;
+    transition: all 0.3s !important;
+}
+.z_button_search:hover {
+    border: 1px solid #56a8f5 !important;
+    background-color: #fff !important;
+    color: #56a8f5 !important;
+}
+.z_button_add{
+    padding: 0 20px !important;
+    color: #fff !important;
+    background-color: #56a8f5 !important;
+    border: 1px solid #56a8f5 !important;
+}
+.z_button_add:hover{
+    border: 1px solid #56a8f5 !important;
+    background-color: #fff !important;
+    color: #56a8f5 !important;
+}
+.z_button_print{
+    padding: 0 30px !important;
+    color: #fff !important;
+    background-color: #49cef4 !important;
+    border: 1px solid #49cef4 !important;
+}
+.z_button_print:hover{
+    border: 1px solid #49cef4 !important;
+    background-color: #fff !important;
+    color: #49cef4 !important;
+}
+.z_button_statistics{
+    padding: 0 30px !important;
+    color: #fff !important;
+    background-color: #3edab3 !important;
+    border: 1px solid #3edab3 !important;
+}
+.z_button_statistics:hover{
+    border: 1px solid #3edab3 !important;
+    background-color: #fff !important;
+    color: #49cef4 !important;
+}
+
+
+
+.z_template_button1{
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 4px;
+    background: #f7a26f !important;
+    color: #fff !important;
+    border:1px solid #f7a26f !important;
+}
+.z_template_button1:hover{
+    background: #fff !important;
+    color: #f7a26f !important;
+}
+
+.z_template_button2{
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 4px;
+    background: #4375a4 !important;
+    color: #fff !important;
+    border:1px solid #4375a4 !important;
+}
+.z_template_button2:hover{
+    background: #fff !important;
+    color: #4375a4 !important;
+}
+
+.z_template_button3{
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 4px;
+    background: #3bdfb3 !important;
+    color: #fff !important;
+    border:1px solid #3bdfb3 !important;
+}
+.z_template_button3:hover{
+    background: #fff !important;
+    color: #3bdfb3 !important;
+}
+
+.z_template_button4{
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 4px;
+    background: #56a8f5 !important;
+    color: #fff !important;
+    border:1px solid #56a8f5 !important;
+}
+.z_template_button4:hover{
+    background: #fff !important;
+    color: #56a8f5 !important;
+}
+
+.z_template_button5{
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 4px;
+    background: #df3b4e !important;
+    color: #fff !important;
+    border:1px solid #df3b4e !important;
+}
+.z_template_button5:hover{
+    background: #fff !important;
+    color: #df3b4e !important;
+}
+
+.z_template_button6{
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 4px;
+    background: #a74651 !important;
+    color: #fff !important;
+    border:1px solid #a74651 !important;
+}
+.z_template_button6:hover{
+    background: #fff !important;
+    color: #a74651 !important;
+}
+
+.z_template_save{
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 4px;
+    background: #56a8f5 !important;
+    color: #fff !important;
+    border:1px solid #56a8f5 !important;
+}
+.z_template_save:hover{
+    background: #fff !important;
+    color: #56a8f5 !important;
+}
+
+.z_template_reset{
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 4px;
+    background: #4391a4 !important;
+    color: #fff !important;
+    border:1px solid #4391a4 !important;
+}
+.z_template_reset:hover{
+    background: #fff !important;
+    color: #4391a4 !important;
+}
+
+.buttonGroup_selectAll{
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 4px;
+    background: #4375a4 !important;
+    color: #fff !important;
+    border:1px solid #4375a4 !important;
+}
+.buttonGroup_selectAll:hover{
+    background: #fff !important;
+    color: #4375a4 !important;
+}
+
+
+.buttonGroup_selectClear{
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 4px;
+    background: #63c38c !important;
+    color: #fff !important;
+    border:1px solid #63c38c !important;
+}
+.buttonGroup_selectClear:hover{
+    background: #fff !important;
+    color: #63c38c !important;
+}
+
+.buttonGroup_selectDelete{
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 4px;
+    background: #df3b4e !important;
+    color: #fff !important;
+    border:1px solid #df3b4e !important;
+}
+.buttonGroup_selectDelete:hover{
+    background: #fff !important;
+    color: #df3b4e !important;
+}

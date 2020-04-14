@@ -1,0 +1,119 @@
+.z_modal_style .ant-modal-body{
+    padding: 0px 10px;
+}
+
+
+.z_modal_add .ant-modal-header{
+    padding: 8px 24px;
+    background-color: #144d82;
+}
+.z_modal_add .ant-modal-header .ant-modal-title{
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+}
+.z_modal_add .ant-modal-close{
+    width: 39px;
+    height: 39px;
+}
+.z_modal_add .ant-modal-close .ant-modal-close-x{
+    width: 39px;
+    line-height: 39px;
+    height: 39px;
+}
+.z_modal_add .ant-modal-close .ant-modal-close-x i{
+    line-height: 39px;
+    color: #fff;
+}
+.z_modal_add .ant-modal-footer div{
+    display: flex;
+    justify-content: center;
+}
+.z_modal_add .ant-modal-footer div button:nth-child(1){
+    background: #3bcadf !important;
+    border-color: #3bcadf;
+    padding: 0 25px;
+}
+
+.z_modal_add .ant-modal-footer div button:nth-child(1) span{
+    color: #fff;
+}
+
+.z_modal_add .ant-modal-footer div button:nth-child(1)+button{
+    background: #df3b4e !important;
+    border-color: #df3b4e;
+    margin-left: 16px;
+    padding: 0 25px;
+}
+
+.z_modal_add .ant-modal-footer div button:nth-child(1)+button span{
+    color: #fff;
+}
+
+
+.z_modal_save .ant-modal-header{
+    padding: 8px 24px;
+    background-color: #144d82;
+}
+.z_modal_save .ant-modal-header .ant-modal-title{
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+}
+.z_modal_save .ant-modal-close{
+    width: 39px;
+    height: 39px;
+}
+.z_modal_save .ant-modal-close .ant-modal-close-x{
+    width: 39px;
+    line-height: 39px;
+    height: 39px;
+}
+.z_modal_save .ant-modal-close .ant-modal-close-x i{
+    line-height: 39px;
+    color: #fff;
+}
+.z_modal_save .ant-modal-footer div{
+    display: flex;
+    justify-content: center;
+}
+
+.z_modal_save .ant-modal-footer div button:nth-child(1) span{
+    color: #fff;
+}
+
+.z_modal_save .ant-modal-footer div button:nth-child(1)+button span{
+    color: #fff;
+}
+
+.z_modal_save .button1{
+    background: #56a8f5 !important;
+    border-color: #56a8f5;
+    padding: 0 25px;
+}
+.z_modal_save .button2{
+    background: #4391a4 !important;
+    border-color: #4391a4;
+    margin-left: 16px;
+    padding: 0 25px;
+}
+
+
+
+.z_modal_btn_save{
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 4px;
+    background: #56a8f5 !important;
+    color: #fff !important;
+    border:1px solid #56a8f5 !important;
+}
+
+.z_modal_btn_reset{
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 4px;
+    background: #4391a4 !important;
+    color: #fff !important;
+    border:1px solid #4391a4 !important;
+}
